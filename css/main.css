@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  font-size: 100%;
+} 
+
+main {
+  max-width: 40em;
+  margin: auto;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
