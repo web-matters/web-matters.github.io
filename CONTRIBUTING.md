@@ -4,9 +4,9 @@ We love pull requests from everyone. By participating in this project, you agree
 
 ## Process
 
-The site is run by GitHub from `master` so do not directly commit to `master`.
+The site is served by GitHub Pages from `master` so do not directly commit to `master`.
 
-We operate a two phase commit policy so all code should be reviewed before being merged.
+We operate a two-phase commit policy, so all code should be reviewed before being merged.
 
 Make your changes in a branch or a fork and open a pull request against `master`.  Once this has been reviewed and approved it can be merged into `master`.
 
